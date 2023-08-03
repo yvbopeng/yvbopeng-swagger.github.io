@@ -1,1 +1,0 @@
-import{u as s,o as a,c as u,d as e,t as r,e as c}from"./index-3778e496.js";const i=e("div",null,null,-1),m=e("p",null,[e("em",null,"Dynamic route!")],-1),k={__name:"[name]",setup(t){const o=t,l=s();return(p,n)=>(a(),u("div",null,[i,e("p",null," Hi, "+r(o.name),1),m,e("div",null,[e("button",{onClick:n[0]||(n[0]=d=>c(l).back())}," Back ")])]))}};export{k as default};
